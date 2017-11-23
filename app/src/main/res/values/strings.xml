@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavTab</string>
+
+    <string name="copy_success">复制成功</string>
+
+    <string name="main_tab_name_news">综合</string>
+    <string name="main_tab_name_tweet">动弹</string>
+    <string name="main_tab_name_my">我的</string>
+    <string name="main_tab_name_explore">发现</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
